@@ -1,7 +1,7 @@
 # HyperOS-Theme-Manager
-![Picsart_25-04-04_14-46-07-553](https://github.com/user-attachments/assets/29e73b09-7966-4ea3-809e-5a54a7eae754)
+<img width="2171" height="1220" alt="Picsart_25-11-04_13-06-31-405" src="https://github.com/user-attachments/assets/d5e4e806-da10-4075-a95d-197e70c326aa" />
 
-HyperOS Theme Manager V4 modified by [Kashi](https://t.me/kakashi1v1).
+HyperOS Theme Manager V5 modified by [Kashi](https://t.me/kakashi1v1).
 
 ### Download
 - Download from the [releases page](https://github.com/Mods-Center/HyperOS-Theme-Manager/releases)
@@ -11,16 +11,29 @@ HyperOS Theme Manager V4 modified by [Kashi](https://t.me/kakashi1v1).
 - Reboot your device.
 - Enjoy!
 
-### Changelog
-- Supports Ai wallpaper generation 
-- Included change server switch
-- Fixed Global server error and improvement in page view
-- Added import option for third-party themes on Miui or HyperOS
-- Added super icons and widgets section for non supported roms
+### Screenshots
+![IMG_20251104_125604_983](https://github.com/user-attachments/assets/4c574e1a-6f26-416c-964d-ca4b1fc3d8e5)
+<img width="1184" height="2547" alt="1762241310228" src="https://github.com/user-attachments/assets/81a6bc15-7f38-4345-9b99-8279f84fa721" />
+<img width="1184" height="2547" alt="1762241355213" src="https://github.com/user-attachments/assets/2f02339d-cb6a-41af-9b58-8b97f6f98f36" />
+<img width="1184" height="2547" alt="1762241451046" src="https://github.com/user-attachments/assets/4ad34816-06d5-4e25-b682-1c27dc0d173c" />
+
 
 ### Important: 
 - Make sure to use App vault mod alongside to make premium widgets work fine.
 
 ### Note
-- Users with Global/CN ROMs based on Android 13 or above are required to flash this [Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch) module first
+- Users with stock CN ROMs are required to flash this [Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch) module first
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Magisk delta may not be compatible.
