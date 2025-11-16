@@ -34,6 +34,6 @@ HyperOS Theme Manager V5 modified by [Kashi](https://t.me/kakashi1v1).
 
 
 
-
+hyperOS Control Center 
 
 - Magisk delta may not be compatible.
